@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JakubMaliszewski99
-- 👀 I’m interested in programing in C++
+- 👀 I’m interested in programing in C++ and Java
 - 🌱 I’m currently learning lots of things
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: kubek.mal@gmail.com
